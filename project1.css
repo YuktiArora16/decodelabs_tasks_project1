@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(125,125,240,0.9);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+    text-shadow:10px 6px 2px green;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size:30px;
+}
+
+div{
+    display:flex;
+    gap: 20px;
+    align-items: center;
+}
+div h3,div h4,div h5,h6{
+    font-size: 30px;
+}
+ul{
+    font-size: 20px;
+}
